@@ -1,5 +1,5 @@
-To compile all exercises at once write:
-
+To recompile all exercises at once write:
+make clean
 make all
 
 :-)
